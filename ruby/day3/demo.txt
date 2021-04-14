@@ -1,0 +1,3 @@
+name, age, sex
+zhang, 28, women
+sun, 29, man
